@@ -1,7 +1,7 @@
 ##Directions on how to deploy a Node/Express app in minutes:
 
 
-[How to Deploy an APp in 5 Minutes](http://veeweeherman.github.io/how-to-deploy-in-five-minutes/) 
+[How to Deploy an App in 5 Minutes](http://veeweeherman.github.io/how-to-deploy-in-five-minutes/) 
 
 Or… at least a few minutes.
 
