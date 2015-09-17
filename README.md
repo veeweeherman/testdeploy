@@ -1,8 +1,6 @@
 ##Directions on how to deploy a Node/Express app in minutes:
 
 
-[How to Deploy an App in 5 Minutes](http://veeweeherman.github.io/how-to-deploy-in-five-minutes/) 
-
 Or… at least a few minutes.
 
 I’ve deployed a number of Node/Express apps on Heroku and I wouldn’t say I’m a “deployment master”… okay, sarcasm and oversized ego aside, here’s the way I deploy my apps on Heroku.
@@ -39,13 +37,14 @@ npm install --save express
 
 Notice that this server.js snippet by default will send an index.html file that is located in the root directory. Feel free to change this to what ever files on what ever path you'd like to serve up.
 
-7.) Now would be a good time to check your app is able to run on the localhost:
+7.) (Optional) If you'd like to create your own index.html to go along with this tutorial, there is boiler plate code in the index.html.
+
+8.) Now would be a good time to check your app is able to run on the localhost:
 
 ```
 node server.js
 ```
 
-8.) (Optional) If you'd like to create your own index.html to go along with this tutorial, there is boiler plate code in the index.html.
 
 9.) Create a new file and save it as "Procfile". This is monumentally important. It tells Heroku what server you've got and how to start it. Paste this into it:
 
@@ -92,4 +91,4 @@ I compiled this info from hours of head-banging-against-the-wall time and from r
 
 [Getting Started with Node.js on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs#deploy-the-app)
 
-Again, if you want to fork my [repo on GitHub](https://github.com/veeweeherman/testdeploy)  feel free :)
+Again, if you want to fork this repo, feel free :)
