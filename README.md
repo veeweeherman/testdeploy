@@ -34,7 +34,6 @@ npm install --save express
 ```
 
 6.) When all that setup is done, create a server.js file (or what ever you named your server file), and paste in the boilerplate code I have provided in the server.js file.
-
 Notice that this server.js snippet by default will send an index.html file that is located in the root directory. Feel free to change this to what ever files on what ever path you'd like to serve up.
 
 7.) (Optional) If you'd like to create your own index.html to go along with this tutorial, there is boiler plate code in the index.html.
