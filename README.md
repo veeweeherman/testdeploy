@@ -7,7 +7,7 @@ I’ve deployed a number of Node/Express apps on Heroku and I wouldn’t say I�
 
 ![Alt text](http://4.bp.blogspot.com/-jvcXGFDkMKw/U9thoH8I-wI/AAAAAAAADeU/iadUMCAHedQ/s1600/2b59a8ba44be0879ae832b60fe9284d0fa.png)
 
-By the way, I have a [repo on GitHub](https://github.com/veeweeherman/testdeploy) with the same directions in the README file if forking the repo is easier for you :)
+By the way, I have a [blogpost](http://veeweeherman.github.io/how-to-deploy-in-five-minutes/) with the same directions if you need to reference it elsewhere. But feel free to fork this repo :)
 
 Before we get started, make sure you have a Heroku account and have installed the [Heroku Toolbelt](https://toolbelt.Heroku.com/) and follow the directions, login etc.
 
